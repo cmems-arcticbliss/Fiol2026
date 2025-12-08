@@ -9,7 +9,7 @@ It is divided into four sub-folders: a personal Python library containing homema
 
 - figures_unperturbed_experiment.ipynb: script to create the illustrations made with the unperturbed experiment
 
-- Analyse_distribution_defo.ipynb and Probability_maps_defo.ipynb: the first script looks at the hourly deformation distributions for two different rheologies in order to define a threshold to use to compute probability maps with the second script
+- Analyse_distribution_defo.ipynb, Probability_maps_defo.ipynb and Maps_difference_probabilities.ipynb: the first script looks at the hourly deformation distributions for two different rheologies in order to define a threshold to use to compute probability maps with the second script. The third script computes the difference between the probability maps of the two rheologies.
 
 All the scripts are Jupyter notebooks coded in Python. The libraries necessary to be able to run all the scripts are:
 
