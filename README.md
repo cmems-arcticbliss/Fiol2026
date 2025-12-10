@@ -1,5 +1,5 @@
 # Fiol et al (2026)
-This repo contains the notebooks to reproduce the figures of the Fiol et al. 2026 paper on sea ice short term predictability.
+This repository contains the notebooks to reproduce the figures of the Fiol et al. 2026 paper on sea ice short term predictability.
 
 It is divided into four sub-folders: a personal Python library containing homemade functions, one with the scripts to compute and analyse the Spatial Probability Score (SPS, Goessling and Jung, 2018) applied to the sea ice edge, one with the scripts to compute and analyse the Continuous Rank Probability Score (CRPS, Hersbach, 2000; Candille et al., 2015; Leroux et al., 2022), and one with the scripts related to Lagrangian trajectories. Other scripts not organised in the above directories are also provided: 
 
